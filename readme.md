@@ -1,6 +1,6 @@
 # Tokocrypto Test
 
-Built with (AdonisJS' Ace Command)[https://github.com/adonisjs/ace]
+Built with [AdonisJS' Ace Command](https://github.com/adonisjs/ace)
 
 ## Installation
 1. Run `npm install`
