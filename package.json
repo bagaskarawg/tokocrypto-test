@@ -1,0 +1,12 @@
+{
+  "name": "bagaskarawg",
+  "version": "1.0.0",
+  "description": "Test",
+  "main": "index.js",
+  "author": "Bagaskara Wisnu Gunawan",
+  "license": "MIT",
+  "dependencies": {
+    "@adonisjs/ace": "^5.0.8",
+    "event-stream": "^4.0.1"
+  }
+}
